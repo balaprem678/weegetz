@@ -1,0 +1,599 @@
+@media screen and (max-width: 1024px) {
+  .w-100 {
+    max-width: 50% !important;
+    margin: 70px auto;
+    height: 50vh;
+  }
+}
+@media screen and (max-width: 1024px) {
+  /* footer .right-content .icons a i {
+    padding-left: 10%;
+  } */
+  .lap-view {
+    height: 100vh;
+  }
+  .w-100 {
+    max-width: 80% !important;
+    margin: 8px auto;
+    height: 76vh;
+  }
+  .mobile-view-1 {
+    height: 26rem;
+  }
+  .image-wrap {
+    height: 22.5rem;
+  }
+  .pricing .price-card {
+    height: auto;
+  }
+  .online-store .content h1 {
+    font-size: 26px;
+  }
+  .type {
+    font-size: 26px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .navbar .navbar-nav .nav-item::after {
+    position: absolute;
+    left: -80%;
+  }
+  .navbar .navbar-nav .nav-link {
+    padding: 6px;
+  }
+  .navbar-collapse a {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .navbar-collapse a button {
+    margin: 16px 0;
+  }
+  .online-store .content h1 {
+    font-size: 28px;
+  }
+  .type {
+    font-size: 28px;
+  }
+  .online-store .content h1 {
+    font-size: 18px;
+    line-height: 44px;
+  }
+  .type {
+    font-size: 18px;
+    display: inline-flex;
+  }
+  .online-store .content {
+    padding-left: 5%;
+  }
+  .shoping-trolly img {
+    padding: 6% 0% 0 0;
+  }
+  .online-store .store {
+    padding: 5% 0 0 5%;
+  }
+  .online-store .content h5 {
+    font-size: 14px;
+    line-height: 28px;
+  }
+  .online-store .content h6 {
+    font-size: 14px;
+  }
+  .features h1 {
+    font-size: 22px;
+  }
+  .heading-para {
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .value .flex-fill .card {
+    width: 80%;
+    margin: 16px auto;
+  }
+  details {
+    padding: 0 20%;
+  }
+  .pricing .price-card {
+    height: auto;
+  }
+  .Sales-report .right-img img {
+    padding: 40% 26px 0 26px;
+  }
+  .Sales-report {
+    margin-top: 0%;
+  }
+  .accordion-wrapper {
+    margin-top: 6%;
+  }
+  footer .right-content {
+    padding: 10% 0 0 0;
+  }
+  footer .right-content h6 {
+    padding-top: 10%;
+  }
+  footer .right-content h5 {
+    padding-top: 10%;
+  }
+  .w-100 {
+    margin: 94px auto;
+    height: 56vh;
+  }
+  .carousel-control-next {
+    margin: 22% 6%;
+    position: absolute;
+    top: 0rem;
+  }
+  .carousel-control-prev {
+    margin: 22% 6%;
+    position: absolute;
+    top: 0rem;
+  }
+  .image-wrap {
+    width: 74%;
+    overflow: hidden;
+    height: 22rem;
+    padding: 5% 0 0 0;
+  }
+  .owl-carousel .owl-nav button.owl-next span {
+    position: absolute;
+    bottom: 30vh;
+    right: -50px;
+  }
+  .owl-carousel .owl-nav button.owl-prev span {
+    position: absolute;
+    bottom: 30vh;
+    right: -50px;
+  }
+}
+@media screen and (max-width: 912px) {
+  .lap-view {
+    background-size: 63%;
+    height: 34vh;
+  }
+  .w-100 {
+    margin: 0px auto;
+    height: 15vh;
+  }
+  .mobile-view-1 {
+    height: 37rem;
+  }
+  .image-wrap {
+    height: 24.5rem;
+  }
+}
+@media screen and (max-width: 820px) {
+  .lap-view {
+    background-size: 80%;
+    height: 42vh;
+  }
+  .w-100 {
+    max-width: 62% !important;
+    margin: 0 auto;
+    height: 26vh;
+  }
+  .mobile-view-1 {
+    /* height: 33rem; */
+  }
+  .image-wrap {
+    height: 23.5rem;
+  }
+  .pricing .price-card .button-4 {
+    text-align: center;
+    position: relative;
+    left: 23px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .navbar .navbar-nav .nav-item::after {
+    position: absolute;
+    left: -80%;
+  }
+  .navbar .navbar-nav .nav-link {
+    padding: 6px;
+  }
+  .navbar-collapse a {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .navbar-collapse a button {
+    margin: 16px 0;
+  }
+  .value .flex-fill .card img {
+    width: 10%;
+  }
+  .features h1 {
+    font-weight: 700;
+    font-size: 30px;
+  }
+  .Customer-loyalty-programs .left-text {
+    padding-top: 0%;
+  }
+  .Shop-and-Earn .left-text {
+    padding-top: 0%;
+  }
+  .Additional-Features .left-text h1 {
+    padding-top: 0%;
+  }
+  .Sales-report .right-img img {
+    padding: 20% 26px 0 26px;
+  }
+  .Additional-Features .right-img img {
+    padding: 0%;
+  }
+  .Customer-loyalty-programs {
+    margin-top: 5%;
+  }
+  .Predictive-Analytics .left-text {
+    padding-top: 0%;
+  }
+  .Predictive-Analytics {
+    text-align: start;
+    margin-top: 10%;
+  }
+  .features .right-content h1 {
+    padding-top: 10%;
+    font-size: 26px;
+  }
+  .features .left-img img {
+    padding: 0;
+  }
+  .Predictive-Analytics .right-img img {
+    padding: 0;
+  }
+  .Multi-store-integration .left-text {
+    padding-top: 0;
+  }
+  .Multi-store-integration {
+    margin-top: 10%;
+  }
+  .Grab-and-Go {
+    padding-top: 0%;
+  }
+  .Grab-and-Go .right-img img {
+    padding: 0px;
+  }
+  .Shop-and-Earn {
+    padding-top: 10%;
+  }
+  .Shop-and-Earn .right-img img {
+    padding: 0px;
+  }
+  .background-line-1 {
+    background-image: none;
+  }
+
+  .lap-view {
+    height: 40vh;
+  }
+  .w-100 {
+    margin: 0px auto;
+    height: 28vh;
+  }
+  .mobile-view-1 {
+    /* height: 30rem; */
+  }
+
+  .AboutUs .content p {
+    font-size: 13px;
+  }
+  details {
+    padding: 0px 10%;
+  }
+  .feature-img-1 {
+    display: block;
+  }
+  .features-img-1 {
+    display: none;
+  }
+  .feature-img-2 {
+    display: block;
+  }
+  .features-img-2 {
+    display: none;
+  }
+  .feature-img-3 {
+    display: block;
+  }
+  .features-img-3 {
+    display: none;
+  }
+  .feature-img-4 {
+    display: block;
+  }
+  .features-img-4 {
+    display: none;
+  }
+  .feature-img-5 {
+    display: block;
+  }
+  .features-img-5 {
+    display: none;
+  }
+  .feature-img-6 {
+    display: block;
+  }
+  .features-img-6 {
+    display: none;
+  }
+}
+/* .head-features .left-img-sm img{
+  display: block;
+  
+}
+.head-features .left-img img{
+  display: none;
+
+}
+.Multi-store-integration .right-img img{
+  display: none;
+
+
+}
+.Multi-store-integration .right-img-sm img{
+  display: block;
+  
+} */
+
+@media screen and (max-width: 576px) {
+  .navigation .container {
+    padding: 0;
+  }
+  .navigation .navbar {
+    padding: 0 10px;
+  }
+  .weegetz-store .left-content {
+    padding: 0%;
+  }
+  .weegetz-store .right-img img {
+    padding: 0px;
+  }
+  .weegetz-store .left-content .head-1 {
+    font-size: 15px;
+  }
+  .value .d-flex .flex-fill {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .background-line-1 {
+    padding: 5%;
+  }
+  .Grab-and-Go .left-text {
+    margin-top: 20px;
+  }
+  .image-wrap {
+    width: 75%;
+    overflow: hidden;
+    height: 19rem;
+    padding: 3% 0 0 0;
+  }
+  .Frequently-Asked-Questions .right-colapse {
+    padding: 5%;
+  }
+  .Additional-Features .left-text ul {
+    padding-left: 8%;
+  }
+  .offer-timer {
+    display: none;
+  }
+  .navigation {
+    position: sticky;
+    top: 0px;
+  }
+  .Additional-Features h2 {
+    font-size: 28px;
+    /* font-family: "Poppins Bold"; */
+  }
+  .features h1 {
+    /* font-weight: 700;
+    font-size: 20px; */
+  }
+  .Additional-Features .right-img img {
+    width: 100%;
+    padding: 0% 0% 0% 0%;
+  }
+  .value .flex-fill .card img {
+    width: 25%;
+  }
+  .Sales-report .right-img img {
+    padding: 0% 0px;
+  }
+  .Additional-Features .left-text h1 {
+    padding-top: 0%;
+  }
+  .AboutUs .icons a i {
+    padding: 0 18px;
+  }
+  details {
+    padding: 0px;
+  }
+  .Contact-Us {
+    background-color: #0000000f;
+    padding: 8% 0%;
+  }
+  .w-100 {
+    margin: 47px auto;
+    height: 20vh;
+  }
+  .carousel-control-prev {
+    width: 40px;
+    height: 40px;
+  }
+  .carousel-control-next {
+    width: 40px;
+    height: 40px;
+  }
+}
+@media screen and (max-width: 540px) {
+  .navbar-brand img {
+    width: 80%;
+    padding-left: 0;
+    margin: 0;
+  }
+  .mobile-view-1 {
+    /* height: 45rem; */
+  }
+  .image-wrap {
+    height: 16.5rem;
+  }
+  /* .carousel-control-next {
+    margin: 30% 6%;
+  }
+  .carousel-control-prev {
+    margin: 30% 6%;
+  } */
+  .owl-carousel .owl-nav button.owl-next span {
+    position: absolute;
+    bottom: 0vh;
+    right: 0px;
+    background-color: #32bba1;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: #fff;
+  }
+  .owl-carousel .owl-nav button.owl-prev span {
+    position: absolute;
+    bottom: 0vh;
+    left: 0px;
+    background-color: #32bba1;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: #fff;
+  }
+}
+@media screen and (max-width: 414px) {
+  .navbar-brand img {
+    width: 70%;
+    padding-left: 0;
+  }
+  .lap-view {
+    height: 26vh;
+  }
+  .w-100 {
+    max-width: 63% !important;
+    margin: 0px auto;
+    height: 17vh;
+  }
+  .carousel-control-next {
+    margin: 22% 2%;
+    position: absolute;
+    top: 0rem;
+  }
+  .carousel-control-prev {
+    margin: 22% 2%;
+    position: absolute;
+    top: 0rem;
+  }
+  /* App View */
+  .mobile-view-1 {
+    background-size: 100%;
+    /* height: 68vh; */
+  }
+  .image-wrap {
+    width: 290px;
+    height: 52vh;
+    padding: 0px 11px;
+    margin: 25px auto;
+  }
+}
+@media screen and (max-width: 393px) {
+  .online-store .content h1 {
+    font-size: 16px;
+  }
+  .type {
+    font-size: 16px;
+    display: inline-flex;
+  }
+}
+@media screen and (max-width: 375px) {
+  .navbar-light .navbar-brand {
+    margin: 0;
+  }
+  .navbar-brand img {
+    width: 70%;
+    padding-left: 0;
+  }
+  .online-store .content h1 {
+    font-size: 15px;
+    font-weight: 700;
+    /* font-family: "Poppins Bold"; */
+    padding-top: 4px;
+    line-height: 36px;
+  }
+  .online-store .content h5 {
+    font-size: 18px;
+  }
+  .online-store .store a:nth-child(2),
+  .online-store .store a:nth-child(3) {
+    margin-top: 5px;
+  }
+  .weegetz-store .left-content h1 {
+    margin-top: 5%;
+  }
+  .features {
+    margin-top: 5%;
+  }
+  .value .flex-fill .card {
+    width: 100%;
+    margin-top: 5px;
+  }
+  .value .flex-fill .card img {
+    width: 30%;
+  }
+
+  summary,
+  .details-info {
+    font-size: 12px;
+  }
+  .carousel-control-prev {
+    margin: 12% 0%;
+    position: absolute;
+    top: 2rem;
+  }
+  .carousel-control-next {
+    margin: 12% 0%;
+    position: absolute;
+    top: 2rem;
+  }
+  .lap-view {
+    background-size: 44vh;
+    height: 40vh;
+  }
+  .w-100 {
+    max-width: 60% !important;
+    height: 22vh;
+    margin: 0px auto;
+  }
+  /* app view */
+  .mobile-view-1 {
+    background-size: 100%;
+    /* height: 80vh; */
+  }
+  .image-wrap {
+    width: 262px;
+    height: 59vh;
+    padding: 0px 11px;
+  }
+}
+@media screen and (max-width: 360px) {
+  .navbar-light .navbar-brand {
+    margin: 0;
+  }
+  .lap-view {
+    background-size: 37vh;
+    height: 34vh;
+  }
+  .mobile-view-1 {
+    /* height: 60vh; */
+  }
+  .image-wrap {
+    height: 53vh;
+  }
+  .w-100 {
+    max-width: 66% !important;
+    height: 19vh;
+  }
+}
